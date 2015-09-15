@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Tiger66639/xinc.svg)](https://travis-ci.org/Tiger66639/xinc)
 ################################################################################
 # Xinc - Continuous Integration
 #
